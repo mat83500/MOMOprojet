@@ -20,11 +20,12 @@
  </tr>
  <tr>
    <td >&nbsp;</td>
-   <td valign=top>
+
    <?php include('menu.php');
    ?></tr>
    <tr>
- <td><div id="corps.php"><?php
+
+ <td><div id="corps"><?php
    include('corps.php');
     ?>
 

@@ -32,6 +32,7 @@ border-right: 10px solid midnightblue;
 #corps
 {
 	width: 600px;
+  margin-right : 10px;
         color: #ffffff;
 }
 
