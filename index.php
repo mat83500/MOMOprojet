@@ -30,6 +30,7 @@
 <footer>
  <tr>
  <td> <?php include('pied_de_page.php');
+ echo "c'est bon vous avez tout lu ?"
 ?></td>
  </tr>
 </footer>
