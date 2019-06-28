@@ -11,20 +11,21 @@
 <div id="global">
 <table border = 0 >
   <tr>
-<td colspan=0><img src="banpub.png" div="entete" ></td>
+<td><img src="banpub.png" div="entete" ></td>
   </tr>
  <tr>
  <td height=20px> &nbsp;  </td>
- <td >&nbsp;</td>
+ <td>&nbsp;</td>
 
  </tr>
  <tr>
    <td >&nbsp;</td>
-   <td valign=top>
+
    <?php include('menu.php');
    ?></tr>
    <tr>
- <td><div id="corps.php"><?php
+
+ <td><div id="corps"><?php
    include('corps.php');
     ?>
 
