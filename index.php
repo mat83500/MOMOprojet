@@ -24,8 +24,8 @@
    <?php include('menu.php');
    ?></tr>
    <tr>
- <td><div id="corps"><?php
-   include('cutenews/show_news.php');
+ <td><div id="corps.php"><?php
+   include('corps.php');
     ?>
 
 	</div></td>
