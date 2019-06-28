@@ -29,8 +29,10 @@
 
 
  <tr>
+ <footer>
  <td> <?php include('pied_de_page.php');
 ?></td>
+</footer>
  </tr>
  </table>
  </div>
