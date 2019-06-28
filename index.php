@@ -38,7 +38,7 @@
 
  </tr>
  <tr>
- <td colspan=3> <?php include('pied_de_page.php');
+ <td> <?php include('pied_de_page.php');
 ?></td>
  </tr>
  </table>
