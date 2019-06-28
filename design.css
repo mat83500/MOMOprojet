@@ -51,7 +51,8 @@ border-right: 10px solid midnightblue;
 {
 	height: 30px;
   width: 600px;
-	text-align: center;
+  margin: 0px;
+	padding: 0px;
 	background-repeat: no-repeat;
 	border: #000000 1px solid;
 
