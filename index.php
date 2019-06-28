@@ -27,11 +27,12 @@
 </td></tr>
 	</div>
 
-
+<footer>
  <tr>
  <td> <?php include('pied_de_page.php');
 ?></td>
  </tr>
+</footer>
  </table>
  </div>
  </body>
