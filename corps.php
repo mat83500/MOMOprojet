@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Site</title>
+  <link rel="stylesheet" href="design.css" type="text/css" title="Design" />
+</head>
 <form method="post" action="questionnaire.php">
 <fieldset>
 <legend>Coordonnées</legend>
