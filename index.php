@@ -11,11 +11,11 @@
 <div id="global">
 <table border = 0 >
   <tr>
-<td colspan=0><img src="banpub.png" div="entete" ></td>
+<td><img src="banpub.png" div="entete" ></td>
   </tr>
  <tr>
  <td height=20px> &nbsp;  </td>
- <td >&nbsp;</td>
+ <td>&nbsp;</td>
 
  </tr>
  <tr>
