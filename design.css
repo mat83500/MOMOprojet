@@ -31,14 +31,14 @@ border-right: 10px solid midnightblue;
 
 #corps
 {
-	width: 600px;
+	width: 700px;
   margin-right : 10px;
         color: #ffffff;
 }
 
 #menuhorizontal
 {
-  	width: 600px;
+  	width: 700px;
   	height : 25px;
   	padding-bottom: 10px;
 	   border: #94a3d8 1px solid;
@@ -50,7 +50,7 @@ border-right: 10px solid midnightblue;
 #pieddepage
 {
 	height: 30px;
-  width: 600px;
+  width: 700px;
   margin: 0px;
 	padding: 0px;
 	background-repeat: no-repeat;
